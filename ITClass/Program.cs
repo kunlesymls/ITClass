@@ -19,7 +19,7 @@ namespace ITClass
             //{
             //    Console.WriteLine("the number is NOT divisible by 5 and 7");
             //}
-            checkingPrimeN();
+            //checkingPrimeN();
         }
 
         static void checkingPrimeN()
